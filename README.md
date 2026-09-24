@@ -20,11 +20,7 @@
 <div>
  <p>
 
-I am 20 years old and I double major in Computer Science and Mathematics with a concentration in Actuarial Science at University of Massachusetts, Amherst. I am fascinated by Trading and Financial Markets. I aspire to become an accomplished Quantitative Analyst and manage my own fund one day. I am deeply interested in Algorithmic and systematic trading. I am also interested in software development and API Engineering to make pwerful developer tools for others. I aspire to wrk for some company and develop software that has a positive impace pn Society. 
-
-I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Visit my [DEV.to](https://dev.to/apurvshah007) page.
-
-I am a student developer [@stocksmith](https://github.com/stocksmith) where we actively manage the stocksmith package is which is an open-source power development tool for stock data analysis including msart machine-learning and NLP functions in the backend. I work on writing and maintaining the analytic and machine-learning functions. 
+I am an 18-year-old aspiring Software Engineer who is completely fascinated by the world of technology. For me, coding isn't just about typing lines on a screen—it feels like building entirely new worlds out of nothing but an idea. Being at the very start of my tech career feels incredibly thrilling, and I am eager to absorb knowledge like a sponge. Every time I run a piece of code and see it work, it gives me an amazing rush of excitement. Even though learning software engineering can feel overwhelming at times because there is so much to know, I genuinely embrace the challenge and see every mistake as a stepping stone to becoming a better developer.Right now, I am focusing all my energy on building a strong foundation. I am diving deep into programming languages like JavaScript and Python to sharpen my logical thinking, while using HTML5 and CSS3 to design clean, user-friendly layouts. I am also mastering developer tools like Git, GitHub, and VS Code to manage my projects efficiently. My ultimate goal is to connect with the tech community, collaborate with other passionate developers, and eventually build software that makes a real difference in people's lives.
 
 Do visit my Medium page where I ocassioanlly publish about my experiences exploring the world of open-source development and how this year has been so unique. 
 
@@ -73,3 +69,47 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 
 <img src="GIF/Hi.gif" width="40px" />
 
+```php
+<?php
+
+namespace AshBaker;
+
+class About extends Me
+{
+    public function getCurrentWorkplace()
+    {
+        return [
+            'workplace' => [
+                'company' => 'Qquicker',
+                'position' => 'Product Owner'         
+            ]
+        ];
+    }
+
+    public function getDailyKnowledge()
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Laravel::class,
+            Vuejs::class,
+            Angular::class,
+            ReactNative::class,
+            TailwindCss::class,
+            Aws::class,
+        ];
+    }
+
+    public function getFutureGoal()
+    {
+        return 'To contribute to open source.';
+    }
+}
+```
+
+-----
+
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
+
+  
+<
