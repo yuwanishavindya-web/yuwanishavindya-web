@@ -20,7 +20,8 @@
 <div>
  <p>
 
-I am an 18-year-old aspiring Software Engineer who is completely fascinated by the world of technology. For me, coding isn't just about typing lines on a screen—it feels like building entirely new worlds out of nothing but an idea. Being at the very start of my tech career feels incredibly thrilling, and I am eager to absorb knowledge like a sponge. Every time I run a piece of code and see it work, it gives me an amazing rush of excitement. Even though learning software engineering can feel overwhelming at times because there is so much to know, I genuinely embrace the challenge and see every mistake as a stepping stone to becoming a better developer.Right now, I am focusing all my energy on building a strong foundation. I am diving deep into programming languages like JavaScript and Python to sharpen my logical thinking, while using HTML5 and CSS3 to design clean, user-friendly layouts. I am also mastering developer tools like Git, GitHub, and VS Code to manage my projects efficiently. My ultimate goal is to connect with the tech community, collaborate with other passionate developers, and eventually build software that makes a real difference in people's lives.
+Ever since I was young, I have dreamed of blending creativity with technology. Currently building my foundation at iCET, I am also excited to start my Degree in Software Engineering at the Open University. My ultimate goal is to bridge the gap between design and code—combining the mindset of a Product Design Engineer with the technical strength of a Software Developer to build beautiful, functional products.
+
 
 Do visit my Medium page where I ocassioanlly publish about my experiences exploring the world of open-source development and how this year has been so unique. 
 
